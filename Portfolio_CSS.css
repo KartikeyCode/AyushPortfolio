@@ -153,6 +153,10 @@ ion-icon {
 .resume:hover{
     color:#4B0082
 }
+.artstation:hover{
+    color:#13AFF0
+}
+
 .swagger{
     display: flex;
     flex-wrap: wrap;
